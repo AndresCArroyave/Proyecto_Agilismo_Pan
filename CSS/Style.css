@@ -42,3 +42,28 @@ nav{
 p {
     color: #D49417;
 }
+.card {
+    width: 100%;
+    margin: 20px;
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 5px 4px 18px rgba(0, 0, 0, 0.4);
+    transition: all 500ms ease-out;
+    cursor: default;
+
+}
+
+/* .panaderia {
+    height: 500px;
+    width: 500px;
+} */
+
+.card:hover {
+    box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.50);
+    transform: translateY(-3%);
+
+}
+
+.car img {
+    width: 50px;
+}
