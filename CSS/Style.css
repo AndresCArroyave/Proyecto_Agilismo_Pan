@@ -93,4 +93,8 @@ p {
 footer {
     background-color: #200f05;
     color: #D49417;
+    width: 100%;
+}
+.container_pro {
+    margin-top: 10%;
 }
