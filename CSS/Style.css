@@ -53,11 +53,6 @@ p {
 
 }
 
-/* .panaderia {
-    height: 500px;
-    width: 500px;
-} */
-
 .card:hover {
     box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.50);
     transform: translateY(-3%);
@@ -79,6 +74,7 @@ p {
     background-color: #200f05be;
     color: #D49417;
     height: 500px;
+    border-radius: 40px;
 
 
 }
