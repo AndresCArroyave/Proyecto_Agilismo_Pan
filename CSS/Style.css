@@ -53,11 +53,6 @@ p {
 
 }
 
-/* .panaderia {
-    height: 500px;
-    width: 500px;
-} */
-
 .card:hover {
     box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.50);
     transform: translateY(-3%);
@@ -66,29 +61,4 @@ p {
 
 .car img {
     width: 50px;
-}
-
-
-.container{
-    background-color: #200f05;
-}
-
-
-
-.iconos{
-    height: 40px;
-    width: 40px;
-    
-}
-
-li, a{
-    color: #D49417;
-}
-
-h5{
-    color: white;
-}
-
-body{
-    background-color: #0f0806;
 }
