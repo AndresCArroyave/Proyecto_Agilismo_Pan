@@ -62,3 +62,35 @@ p {
 .car img {
     width: 50px;
 }
+.formulario {
+    padding: 5%;
+    width: 50%;
+    top: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    background-color: #200f05be;
+    color: #D49417;
+    height: 500px;
+    border-radius: 40px;
+
+
+}
+.main-form {
+    background-image: url("../IMG/banner_4.jpg");
+    width: 100%;
+    padding: 25%;
+    background-size: cover;
+    height: 500px;
+}
+.input {
+    background-color: #D49417;
+    color: #200f05;
+    height: 40px;
+    border-radius: 10px;
+}
+footer {
+    background-color: #200f05;
+    color: #D49417;
+}
