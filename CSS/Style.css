@@ -67,3 +67,28 @@ p {
 .car img {
     width: 50px;
 }
+
+
+.container{
+    background-color: #200f05;
+}
+
+
+
+.iconos{
+    height: 40px;
+    width: 40px;
+    
+}
+
+li, a{
+    color: #D49417;
+}
+
+h5{
+    color: white;
+}
+
+body{
+    background-color: #0f0806;
+}
